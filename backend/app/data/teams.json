@@ -1,0 +1,378 @@
+{
+  "NBA": [
+    {
+      "name": "Atlanta Hawks",
+      "abbreviation": "ATL",
+      "conference": "East",
+      "division": "Southeast"
+    },
+    {
+      "name": "Boston Celtics",
+      "abbreviation": "BOS",
+      "conference": "East",
+      "division": "Atlantic"
+    },
+    {
+      "name": "Brooklyn Nets",
+      "abbreviation": "BKN",
+      "conference": "East",
+      "division": "Atlantic"
+    },
+    {
+      "name": "Charlotte Hornets",
+      "abbreviation": "CHA",
+      "conference": "East",
+      "division": "Southeast"
+    },
+    {
+      "name": "Chicago Bulls",
+      "abbreviation": "CHI",
+      "conference": "East",
+      "division": "Central"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "abbreviation": "CLE",
+      "conference": "East",
+      "division": "Central"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "abbreviation": "DAL",
+      "conference": "West",
+      "division": "Southwest"
+    },
+    {
+      "name": "Denver Nuggets",
+      "abbreviation": "DEN",
+      "conference": "West",
+      "division": "Northwest"
+    },
+    {
+      "name": "Detroit Pistons",
+      "abbreviation": "DET",
+      "conference": "East",
+      "division": "Central"
+    },
+    {
+      "name": "Golden State Warriors",
+      "abbreviation": "GSW",
+      "conference": "West",
+      "division": "Pacific"
+    },
+    {
+      "name": "Houston Rockets",
+      "abbreviation": "HOU",
+      "conference": "West",
+      "division": "Southwest"
+    },
+    {
+      "name": "Indiana Pacers",
+      "abbreviation": "IND",
+      "conference": "East",
+      "division": "Central"
+    },
+    {
+      "name": "LA Clippers",
+      "abbreviation": "LAC",
+      "conference": "West",
+      "division": "Pacific"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "abbreviation": "LAL",
+      "conference": "West",
+      "division": "Pacific"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "abbreviation": "MEM",
+      "conference": "West",
+      "division": "Southwest"
+    },
+    {
+      "name": "Miami Heat",
+      "abbreviation": "MIA",
+      "conference": "East",
+      "division": "Southeast"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "abbreviation": "MIL",
+      "conference": "East",
+      "division": "Central"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "abbreviation": "MIN",
+      "conference": "West",
+      "division": "Northwest"
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "abbreviation": "NOP",
+      "conference": "West",
+      "division": "Southwest"
+    },
+    {
+      "name": "New York Knicks",
+      "abbreviation": "NYK",
+      "conference": "East",
+      "division": "Atlantic"
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "abbreviation": "OKC",
+      "conference": "West",
+      "division": "Northwest"
+    },
+    {
+      "name": "Orlando Magic",
+      "abbreviation": "ORL",
+      "conference": "East",
+      "division": "Southeast"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "abbreviation": "PHI",
+      "conference": "East",
+      "division": "Atlantic"
+    },
+    {
+      "name": "Phoenix Suns",
+      "abbreviation": "PHX",
+      "conference": "West",
+      "division": "Pacific"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "abbreviation": "POR",
+      "conference": "West",
+      "division": "Northwest"
+    },
+    {
+      "name": "Sacramento Kings",
+      "abbreviation": "SAC",
+      "conference": "West",
+      "division": "Pacific"
+    },
+    {
+      "name": "San Antonio Spurs",
+      "abbreviation": "SAS",
+      "conference": "West",
+      "division": "Southwest"
+    },
+    {
+      "name": "Toronto Raptors",
+      "abbreviation": "TOR",
+      "conference": "East",
+      "division": "Atlantic"
+    },
+    {
+      "name": "Utah Jazz",
+      "abbreviation": "UTA",
+      "conference": "West",
+      "division": "Northwest"
+    },
+    {
+      "name": "Washington Wizards",
+      "abbreviation": "WAS",
+      "conference": "East",
+      "division": "Southeast"
+    }
+  ],
+  "NFL": [
+    {
+      "name": "Arizona Cardinals",
+      "abbreviation": "ARI",
+      "conference": "NFC",
+      "division": "NFC West"
+    },
+    {
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "conference": "NFC",
+      "division": "NFC South"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "conference": "AFC",
+      "division": "AFC North"
+    },
+    {
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "conference": "AFC",
+      "division": "AFC East"
+    },
+    {
+      "name": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "conference": "NFC",
+      "division": "NFC South"
+    },
+    {
+      "name": "Chicago Bears",
+      "abbreviation": "CHI",
+      "conference": "NFC",
+      "division": "NFC North"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "abbreviation": "CIN",
+      "conference": "AFC",
+      "division": "AFC North"
+    },
+    {
+      "name": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "conference": "AFC",
+      "division": "AFC North"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "conference": "NFC",
+      "division": "NFC East"
+    },
+    {
+      "name": "Denver Broncos",
+      "abbreviation": "DEN",
+      "conference": "AFC",
+      "division": "AFC West"
+    },
+    {
+      "name": "Detroit Lions",
+      "abbreviation": "DET",
+      "conference": "NFC",
+      "division": "NFC North"
+    },
+    {
+      "name": "Green Bay Packers",
+      "abbreviation": "GB",
+      "conference": "NFC",
+      "division": "NFC North"
+    },
+    {
+      "name": "Houston Texans",
+      "abbreviation": "HOU",
+      "conference": "AFC",
+      "division": "AFC South"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "abbreviation": "IND",
+      "conference": "AFC",
+      "division": "AFC South"
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "conference": "AFC",
+      "division": "AFC South"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "abbreviation": "KC",
+      "conference": "AFC",
+      "division": "AFC West"
+    },
+    {
+      "name": "Las Vegas Raiders",
+      "abbreviation": "LV",
+      "conference": "AFC",
+      "division": "AFC West"
+    },
+    {
+      "name": "Los Angeles Chargers",
+      "abbreviation": "LAC",
+      "conference": "AFC",
+      "division": "AFC West"
+    },
+    {
+      "name": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "conference": "NFC",
+      "division": "NFC West"
+    },
+    {
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "conference": "AFC",
+      "division": "AFC East"
+    },
+    {
+      "name": "Minnesota Vikings",
+      "abbreviation": "MIN",
+      "conference": "NFC",
+      "division": "NFC North"
+    },
+    {
+      "name": "New England Patriots",
+      "abbreviation": "NE",
+      "conference": "AFC",
+      "division": "AFC East"
+    },
+    {
+      "name": "New Orleans Saints",
+      "abbreviation": "NO",
+      "conference": "NFC",
+      "division": "NFC South"
+    },
+    {
+      "name": "New York Giants",
+      "abbreviation": "NYG",
+      "conference": "NFC",
+      "division": "NFC East"
+    },
+    {
+      "name": "New York Jets",
+      "abbreviation": "NYJ",
+      "conference": "AFC",
+      "division": "AFC East"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "conference": "NFC",
+      "division": "NFC East"
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "conference": "AFC",
+      "division": "AFC North"
+    },
+    {
+      "name": "San Francisco 49ers",
+      "abbreviation": "SF",
+      "conference": "NFC",
+      "division": "NFC West"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "abbreviation": "SEA",
+      "conference": "NFC",
+      "division": "NFC West"
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "conference": "NFC",
+      "division": "NFC South"
+    },
+    {
+      "name": "Tennessee Titans",
+      "abbreviation": "TEN",
+      "conference": "AFC",
+      "division": "AFC South"
+    },
+    {
+      "name": "Washington Commanders",
+      "abbreviation": "WAS",
+      "conference": "NFC",
+      "division": "NFC East"
+    }
+  ]
+}

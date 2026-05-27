@@ -1,0 +1,132 @@
+[
+  {
+    "league": "NBA",
+    "team_name": "Los Angeles Lakers",
+    "title": "Lakers guard listed as questionable with ankle soreness",
+    "source_name": "Mock Sports Wire",
+    "source_url": "https://example.com/nba/lakers-guard-questionable-ankle",
+    "published_at": "2026-05-24T10:00:00",
+    "description": "Los Angeles listed a rotation guard as questionable before the next matchup because of ankle soreness.",
+    "content_snippet": "The Lakers have not ruled him out, but the injury report makes his availability uncertain."
+  },
+  {
+    "league": "NBA",
+    "team_name": "Los Angeles Lakers",
+    "title": "Lakers front office expected to evaluate guard depth this offseason",
+    "source_name": "Hoops Mock Daily",
+    "source_url": "https://example.com/nba/lakers-offseason-guard-depth",
+    "published_at": "2026-05-23T16:30:00",
+    "description": "The Lakers are expected to review guard depth and perimeter defense after recent roster concerns.",
+    "content_snippet": "Team officials are focused on flexibility and fit rather than one specific reported target."
+  },
+  {
+    "league": "NBA",
+    "team_name": "Los Angeles Lakers",
+    "title": "Rumor: Lakers linked to veteran wing in early trade chatter",
+    "source_name": "Mock Rumor Report",
+    "source_url": "https://example.com/nba/lakers-veteran-wing-rumor",
+    "published_at": "2026-05-22T08:15:00",
+    "description": "Early league chatter has connected Los Angeles to a veteran wing, but no formal offer has been reported.",
+    "content_snippet": "The report frames the interest as exploratory and not a confirmed negotiation."
+  },
+  {
+    "league": "NBA",
+    "team_name": "Golden State Warriors",
+    "title": "Warriors emphasize younger bench development in offseason plan",
+    "source_name": "Bay Mock Sports",
+    "source_url": "https://example.com/nba/warriors-young-bench-development",
+    "published_at": "2026-05-24T12:20:00",
+    "description": "Golden State wants more consistent bench production from younger rotation players.",
+    "content_snippet": "The coaching staff is expected to prioritize player development and defined second-unit roles."
+  },
+  {
+    "league": "NBA",
+    "team_name": "Boston Celtics",
+    "title": "Celtics forward praised for two-way performance after win",
+    "source_name": "Mock Hardwood News",
+    "source_url": "https://example.com/nba/celtics-forward-two-way-performance",
+    "published_at": "2026-05-24T21:45:00",
+    "description": "Boston's forward drew praise for efficient scoring and strong defensive rotations.",
+    "content_snippet": "The performance helped Boston control late-game possessions."
+  },
+  {
+    "league": "NBA",
+    "team_name": "Dallas Mavericks",
+    "title": "Mavericks injury update leaves key forward day to day",
+    "source_name": "Mock Sports Wire",
+    "source_url": "https://example.com/nba/mavericks-forward-day-to-day",
+    "published_at": "2026-05-24T09:05:00",
+    "description": "Dallas listed a key forward as day to day after a minor knee issue.",
+    "content_snippet": "The team expects to reassess him before the next practice."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Kansas City Chiefs",
+    "title": "Chiefs rookie receiver earns praise during organized team activities",
+    "source_name": "Mock Gridiron Wire",
+    "source_url": "https://example.com/nfl/chiefs-rookie-receiver-otas",
+    "published_at": "2026-05-24T13:10:00",
+    "description": "Kansas City's coaching staff praised a rookie receiver for route detail during offseason activities.",
+    "content_snippet": "The praise does not guarantee a role, but it adds early optimism to the receiver competition."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Kansas City Chiefs",
+    "title": "Chiefs defensive starter limited by hamstring tightness",
+    "source_name": "KC Mock Sports",
+    "source_url": "https://example.com/nfl/chiefs-defender-hamstring-limited",
+    "published_at": "2026-05-23T11:40:00",
+    "description": "A Kansas City defensive starter was limited during practice because of hamstring tightness.",
+    "content_snippet": "The team described the move as precautionary and did not announce a long-term absence."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Kansas City Chiefs",
+    "title": "Rumor: Chiefs monitoring veteran corner market before training camp",
+    "source_name": "Mock NFL Rumors",
+    "source_url": "https://example.com/nfl/chiefs-veteran-corner-market-rumor",
+    "published_at": "2026-05-22T18:25:00",
+    "description": "Kansas City has been loosely connected to the veteran cornerback market before camp.",
+    "content_snippet": "The report does not name a formal offer or confirmed visit."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Dallas Cowboys",
+    "title": "Cowboys offensive line competition heats up during offseason workouts",
+    "source_name": "Mock Star Sports",
+    "source_url": "https://example.com/nfl/cowboys-offensive-line-competition",
+    "published_at": "2026-05-24T14:00:00",
+    "description": "Dallas is evaluating multiple offensive line combinations during offseason workouts.",
+    "content_snippet": "Coaches said roster flexibility will matter when final depth chart decisions are made."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Buffalo Bills",
+    "title": "Bills quarterback praises new passing-game wrinkles",
+    "source_name": "Mock AFC Report",
+    "source_url": "https://example.com/nfl/bills-passing-game-wrinkles",
+    "published_at": "2026-05-24T17:30:00",
+    "description": "Buffalo's quarterback said the offense is experimenting with new passing-game concepts.",
+    "content_snippet": "The team is still early in installation, but players described the changes as positive."
+  },
+  {
+    "league": "NFL",
+    "team_name": "San Francisco 49ers",
+    "title": "49ers coach says linebacker recovery remains on schedule",
+    "source_name": "Mock Bay Football",
+    "source_url": "https://example.com/nfl/49ers-linebacker-recovery-schedule",
+    "published_at": "2026-05-23T15:10:00",
+    "description": "San Francisco's coaching staff said a linebacker's rehab remains on schedule entering summer work.",
+    "content_snippet": "The team did not commit to a full-contact timeline."
+  },
+  {
+    "league": "NFL",
+    "team_name": "Philadelphia Eagles",
+    "title": "Eagles add depth signing before minicamp",
+    "source_name": "Mock Philly Sports",
+    "source_url": "https://example.com/nfl/eagles-depth-signing-minicamp",
+    "published_at": "2026-05-24T07:45:00",
+    "description": "Philadelphia added a depth player before minicamp to increase competition at a reserve spot.",
+    "content_snippet": "The signing is viewed as a roster-depth move rather than a projected starting change."
+  }
+]

@@ -1,0 +1,26 @@
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/tests/__pycache__/
+*.pyc
+
+# Database
+backend/sportsbrief.db
+*.sqlite
+*.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
