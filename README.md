@@ -1,6 +1,6 @@
-# SportsBrief AI
+# SportsBrief
 
-SportsBrief AI is a full-stack sports news summarizer MVP for NBA and NFL fans. Users choose a league, select a team, pick a time range, and generate a concise AI-style brief with topic grouping, sentiment labels, importance scores, and source links.
+SportsBrief is a full-stack sports news summarizer MVP for NBA and NFL fans. Users choose a league, select a team, pick a time range, and generate a concise AI-style brief with topic grouping, sentiment labels, importance scores, and source links.
 
 The project is designed as a student portfolio MVP. It works with mock seed data by default, so no external API key is required.
 
@@ -194,4 +194,4 @@ NEWS_API_KEY=your_newsapi_key_here
 
 Then restart the backend. The app will use NewsAPI live search first and cache matching articles in SQLite. If no key is provided, the app clearly shows that it is using seed data only.
 
-Important: live news APIs are for articles, not official scores or playoff series state. For exact scores, standings, schedules, and series records, add a structured sports data API such as SportsDataIO, Sportradar, or an official league feed later.
+Side note: Live news APIs are for articles, not official scores or playoff series state. For exact scores, standings, schedules, and series records, add a structured sports data API such as SportsDataIO, Sportradar, or an official league feed later.
